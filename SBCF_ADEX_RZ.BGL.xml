@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!-- Created by Scenery Design Engine (SDE) on 05/04/2016 -->
+<!-- Created by Scenery Design Engine (SDE) on 06/04/2016 -->
 <FSData
    version="9.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -14602,294 +14602,294 @@
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6343930074753"
-         lon="-43.967776189673"
+         lon="-43.9677759830147"
          heading="45"
          label="d ` F "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.628839861417"
-         lon="-43.9728788244626"
-         heading="50"
+         lon="-43.97287825981"
+         heading="49"
          label="d &lt; C "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6246551015625"
-         lon="-43.9776191551259"
+         lon="-43.9776181539124"
          heading="45"
          label="dA&apos;|B&gt;"
          size="SIZE3"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6233499388527"
-         lon="-43.9764024597293"
+         lon="-43.9764014608523"
          heading="225"
          label="l[A]d&lt;B|`A"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6279197043293"
-         lon="-43.97158925085"
-         heading="43"
+         lon="-43.9715887094852"
+         heading="42"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6292575423512"
-         lon="-43.9709591730624"
+         lon="-43.9709587062042"
          heading="225"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6321325765737"
-         lon="-43.967678862824"
+         lon="-43.9676786043592"
          heading="45"
          label="l[A]d &lt; E "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6333675862771"
-         lon="-43.9671347164393"
+         lon="-43.9671345039609"
          heading="225"
          label="l[A]d E &gt; "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6355947970401"
-         lon="-43.9644678630023"
+         lon="-43.9644677605456"
          heading="45"
          label="l[A]d &lt; F \ "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6372350187293"
-         lon="-43.9635568268143"
+         lon="-43.9635567636514"
          heading="225"
          label="l[A]d ` F &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6403919295573"
-         lon="-43.9600156119476"
+         lon="-43.9600156113473"
          heading="45"
          label="l[A]d&lt;J"
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6413803798542"
-         lon="-43.9597250146782"
+         lon="-43.9597250156606"
          heading="225"
          label="l[A]d J &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6412616632792"
-         lon="-43.9592121782258"
+         lon="-43.9592121817916"
          heading="45"
          label="l[A]d &lt; L "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6421542533528"
-         lon="-43.9590357312615"
+         lon="-43.9590357332263"
          heading="225"
          label="l[A]d L &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6420757808947"
-         lon="-43.9584579510438"
+         lon="-43.9584579546823"
          heading="45"
          label="l[A]d H &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6326042974893"
-         lon="-43.9666847431683"
-         heading="136"
+         lon="-43.9666845277803"
+         heading="135"
          label="l[E]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.63606020357"
-         lon="-43.963305369928"
-         heading="119"
+         lon="-43.9633052986156"
+         heading="118"
          label="l[F]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6409895523598"
-         lon="-43.9592204648301"
+         lon="-43.959220468978"
          heading="135"
          label="l[J]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6416607779586"
-         lon="-43.9585726513575"
+         lon="-43.9585726564514"
          heading="135"
          label="l[L]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6234258608691"
-         lon="-43.9772782152357"
+         lon="-43.9772771674622"
          heading="135"
          label="l[B]m  16  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.622769676629"
-         lon="-43.977217118857"
+         lon="-43.9772160384905"
          heading="315"
          label="l[B]d /A&gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6429042628177"
-         lon="-43.9587053326513"
-         heading="318"
+         lon="-43.9587053325057"
+         heading="317"
          label="l[H]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6435107455046"
-         lon="-43.9587142706962"
+         lon="-43.9587142682219"
          heading="135"
          label="l[H]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6361925810387"
-         lon="-43.9657235336369"
-         heading="196"
+         lon="-43.9657234137155"
+         heading="195"
          label="l[F]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.635815681359"
-         lon="-43.9654707118121"
-         heading="18"
+         lon="-43.9654705907267"
+         heading="17"
          label="l[F]d / A &apos; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6293179543865"
-         lon="-43.9718148460468"
-         heading="137"
+         lon="-43.9718143454256"
+         heading="136"
          label="l[C]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6287190692012"
-         lon="-43.9718050361988"
-         heading="318"
+         lon="-43.9718045146232"
+         heading="317"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6285082070542"
-         lon="-43.9708543654371"
-         heading="136"
+         lon="-43.9708538776248"
+         heading="135"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6229250796093"
-         lon="-43.9775899589964"
-         heading="96"
+         lon="-43.9775888646586"
+         heading="95"
          label="l[A]m 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6368317196778"
-         lon="-43.9663860743225"
+         lon="-43.9663859532364"
          heading="45"
          label="d F \ "
          size="SIZE4"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6304602051762"
-         lon="-43.9722194143975"
-         heading="222"
+         lon="-43.9722189405503"
+         heading="221"
          label="d C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6433643759624"
-         lon="-43.9579210383368"
+         lon="-43.9579210351348"
          heading="225"
          label="l[A]d &lt; H  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6473638862837"
-         lon="-43.9550804836504"
+         lon="-43.9550804152438"
          heading="135"
          label="l[N]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6478765441577"
-         lon="-43.9551180499244"
-         heading="169"
+         lon="-43.9551179745314"
+         heading="168"
          label="l[O]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6468215839698"
-         lon="-43.95628833423"
-         heading="48"
+         lon="-43.956288289111"
+         heading="47"
          label="d &lt; N | O ` "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6472029383754"
-         lon="-43.9545768519724"
-         heading="318"
+         lon="-43.9545767791996"
+         heading="317"
          label="l[O]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6461294214069"
-         lon="-43.9547224750026"
+         lon="-43.9547224220243"
          heading="45"
          label="l[A]d N &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6467633292718"
-         lon="-43.9541251029402"
+         lon="-43.9541250319141"
          heading="45"
          label="l[A]d O &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6432947285819"
-         lon="-43.9573508435315"
+         lon="-43.9573508400385"
          heading="45"
          label="l[A]d M &lt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6444283851038"
-         lon="-43.9569153770983"
+         lon="-43.9569153622529"
          heading="225"
          label="l[A]d &gt; M  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6466822116315"
-         lon="-43.955119101115"
+         lon="-43.9551190434791"
          heading="315"
          label="l[N]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6438370418802"
-         lon="-43.9566689654089"
+         lon="-43.956668955512"
          heading="135"
          label="l[M]d &lt; A &gt; "
          size="SIZE3"
@@ -14903,294 +14903,294 @@
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6343930074753"
-         lon="-43.967776189673"
+         lon="-43.9677759830147"
          heading="45"
          label="d ` F "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.628839861417"
-         lon="-43.9728788244626"
-         heading="50"
+         lon="-43.97287825981"
+         heading="49"
          label="d &lt; C "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6246551015625"
-         lon="-43.9776191551259"
+         lon="-43.9776181539124"
          heading="45"
          label="dA&apos;|B&gt;"
          size="SIZE3"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6233499388527"
-         lon="-43.9764024597293"
+         lon="-43.9764014608523"
          heading="225"
          label="l[A]d&lt;B|`A"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6279197043293"
-         lon="-43.97158925085"
-         heading="43"
+         lon="-43.9715887094852"
+         heading="42"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6292575423512"
-         lon="-43.9709591730624"
+         lon="-43.9709587062042"
          heading="225"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6321325765737"
-         lon="-43.967678862824"
+         lon="-43.9676786043592"
          heading="45"
          label="l[A]d &lt; E "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6333675862771"
-         lon="-43.9671347164393"
+         lon="-43.9671345039609"
          heading="225"
          label="l[A]d E &gt; "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6355947970401"
-         lon="-43.9644678630023"
+         lon="-43.9644677605456"
          heading="45"
          label="l[A]d &lt; F \ "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6372350187293"
-         lon="-43.9635568268143"
+         lon="-43.9635567636514"
          heading="225"
          label="l[A]d ` F &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6403919295573"
-         lon="-43.9600156119476"
+         lon="-43.9600156113473"
          heading="45"
          label="l[A]d&lt;J"
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6413803798542"
-         lon="-43.9597250146782"
+         lon="-43.9597250156606"
          heading="225"
          label="l[A]d J &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6412616632792"
-         lon="-43.9592121782258"
+         lon="-43.9592121817916"
          heading="45"
          label="l[A]d &lt; L "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6421542533528"
-         lon="-43.9590357312615"
+         lon="-43.9590357332263"
          heading="225"
          label="l[A]d L &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6420757808947"
-         lon="-43.9584579510438"
+         lon="-43.9584579546823"
          heading="45"
          label="l[A]d H &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6326042974893"
-         lon="-43.9666847431683"
-         heading="136"
+         lon="-43.9666845277803"
+         heading="135"
          label="l[E]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.63606020357"
-         lon="-43.963305369928"
-         heading="119"
+         lon="-43.9633052986156"
+         heading="118"
          label="l[F]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6409895523598"
-         lon="-43.9592204648301"
+         lon="-43.959220468978"
          heading="135"
          label="l[J]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6416607779586"
-         lon="-43.9585726513575"
+         lon="-43.9585726564514"
          heading="135"
          label="l[L]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6234258608691"
-         lon="-43.9772782152357"
+         lon="-43.9772771674622"
          heading="135"
          label="l[B]m  16  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.622769676629"
-         lon="-43.977217118857"
+         lon="-43.9772160384905"
          heading="315"
          label="l[B]d /A&gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6429042628177"
-         lon="-43.9587053326513"
-         heading="318"
+         lon="-43.9587053325057"
+         heading="317"
          label="l[H]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6435107455046"
-         lon="-43.9587142706962"
+         lon="-43.9587142682219"
          heading="135"
          label="l[H]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6361925810387"
-         lon="-43.9657235336369"
-         heading="196"
+         lon="-43.9657234137155"
+         heading="195"
          label="l[F]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.635815681359"
-         lon="-43.9654707118121"
-         heading="18"
+         lon="-43.9654705907267"
+         heading="17"
          label="l[F]d / A &apos; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6293179543865"
-         lon="-43.9718148460468"
-         heading="137"
+         lon="-43.9718143454256"
+         heading="136"
          label="l[C]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6287190692012"
-         lon="-43.9718050361988"
-         heading="318"
+         lon="-43.9718045146232"
+         heading="317"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6285082070542"
-         lon="-43.9708543654371"
-         heading="136"
+         lon="-43.9708538776248"
+         heading="135"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6229250796093"
-         lon="-43.9775899589964"
-         heading="96"
+         lon="-43.9775888646586"
+         heading="95"
          label="l[A]m 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6368317196778"
-         lon="-43.9663860743225"
+         lon="-43.9663859532364"
          heading="45"
          label="d F \ "
          size="SIZE4"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6304602051762"
-         lon="-43.9722194143975"
-         heading="222"
+         lon="-43.9722189405503"
+         heading="221"
          label="d C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6433643759624"
-         lon="-43.9579210383368"
+         lon="-43.9579210351348"
          heading="225"
          label="l[A]d &lt; H  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6473638862837"
-         lon="-43.9550804836504"
+         lon="-43.9550804152438"
          heading="135"
          label="l[N]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6478765441577"
-         lon="-43.9551180499244"
-         heading="169"
+         lon="-43.9551179745314"
+         heading="168"
          label="l[O]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6468215839698"
-         lon="-43.95628833423"
-         heading="48"
+         lon="-43.956288289111"
+         heading="47"
          label="d &lt; N | O ` "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6472029383754"
-         lon="-43.9545768519724"
-         heading="318"
+         lon="-43.9545767791996"
+         heading="317"
          label="l[O]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6461294214069"
-         lon="-43.9547224750026"
+         lon="-43.9547224220243"
          heading="45"
          label="l[A]d N &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6467633292718"
-         lon="-43.9541251029402"
+         lon="-43.9541250319141"
          heading="45"
          label="l[A]d O &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6432947285819"
-         lon="-43.9573508435315"
+         lon="-43.9573508400385"
          heading="45"
          label="l[A]d M &lt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6444283851038"
-         lon="-43.9569153770983"
+         lon="-43.9569153622529"
          heading="225"
          label="l[A]d &gt; M  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6466822116315"
-         lon="-43.955119101115"
+         lon="-43.9551190434791"
          heading="315"
          label="l[N]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6438370418802"
-         lon="-43.9566689654089"
+         lon="-43.956668955512"
          heading="135"
          label="l[M]d &lt; A &gt; "
          size="SIZE3"
@@ -15204,294 +15204,294 @@
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6343930074753"
-         lon="-43.967776189673"
+         lon="-43.9677759830147"
          heading="45"
          label="d ` F "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.628839861417"
-         lon="-43.9728788244626"
-         heading="50"
+         lon="-43.97287825981"
+         heading="49"
          label="d &lt; C "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6246551015625"
-         lon="-43.9776191551259"
+         lon="-43.9776181539124"
          heading="45"
          label="dA&apos;|B&gt;"
          size="SIZE3"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6233499388527"
-         lon="-43.9764024597293"
+         lon="-43.9764014608523"
          heading="225"
          label="l[A]d&lt;B|`A"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6279197043293"
-         lon="-43.97158925085"
-         heading="43"
+         lon="-43.9715887094852"
+         heading="42"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6292575423512"
-         lon="-43.9709591730624"
+         lon="-43.9709587062042"
          heading="225"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6321325765737"
-         lon="-43.967678862824"
+         lon="-43.9676786043592"
          heading="45"
          label="l[A]d &lt; E "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6333675862771"
-         lon="-43.9671347164393"
+         lon="-43.9671345039609"
          heading="225"
          label="l[A]d E &gt; "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6355947970401"
-         lon="-43.9644678630023"
+         lon="-43.9644677605456"
          heading="45"
          label="l[A]d &lt; F \ "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6372350187293"
-         lon="-43.9635568268143"
+         lon="-43.9635567636514"
          heading="225"
          label="l[A]d ` F &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6403919295573"
-         lon="-43.9600156119476"
+         lon="-43.9600156113473"
          heading="45"
          label="l[A]d&lt;J"
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6413803798542"
-         lon="-43.9597250146782"
+         lon="-43.9597250156606"
          heading="225"
          label="l[A]d J &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6412616632792"
-         lon="-43.9592121782258"
+         lon="-43.9592121817916"
          heading="45"
          label="l[A]d &lt; L "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6421542533528"
-         lon="-43.9590357312615"
+         lon="-43.9590357332263"
          heading="225"
          label="l[A]d L &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6420757808947"
-         lon="-43.9584579510438"
+         lon="-43.9584579546823"
          heading="45"
          label="l[A]d H &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6326042974893"
-         lon="-43.9666847431683"
-         heading="136"
+         lon="-43.9666845277803"
+         heading="135"
          label="l[E]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.63606020357"
-         lon="-43.963305369928"
-         heading="119"
+         lon="-43.9633052986156"
+         heading="118"
          label="l[F]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6409895523598"
-         lon="-43.9592204648301"
+         lon="-43.959220468978"
          heading="135"
          label="l[J]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6416607779586"
-         lon="-43.9585726513575"
+         lon="-43.9585726564514"
          heading="135"
          label="l[L]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6234258608691"
-         lon="-43.9772782152357"
+         lon="-43.9772771674622"
          heading="135"
          label="l[B]m  16  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.622769676629"
-         lon="-43.977217118857"
+         lon="-43.9772160384905"
          heading="315"
          label="l[B]d /A&gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6429042628177"
-         lon="-43.9587053326513"
-         heading="318"
+         lon="-43.9587053325057"
+         heading="317"
          label="l[H]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6435107455046"
-         lon="-43.9587142706962"
+         lon="-43.9587142682219"
          heading="135"
          label="l[H]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6361925810387"
-         lon="-43.9657235336369"
-         heading="196"
+         lon="-43.9657234137155"
+         heading="195"
          label="l[F]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.635815681359"
-         lon="-43.9654707118121"
-         heading="18"
+         lon="-43.9654705907267"
+         heading="17"
          label="l[F]d / A &apos; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6293179543865"
-         lon="-43.9718148460468"
-         heading="137"
+         lon="-43.9718143454256"
+         heading="136"
          label="l[C]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6287190692012"
-         lon="-43.9718050361988"
-         heading="318"
+         lon="-43.9718045146232"
+         heading="317"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6285082070542"
-         lon="-43.9708543654371"
-         heading="136"
+         lon="-43.9708538776248"
+         heading="135"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6229250796093"
-         lon="-43.9775899589964"
-         heading="96"
+         lon="-43.9775888646586"
+         heading="95"
          label="l[A]m 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6368317196778"
-         lon="-43.9663860743225"
+         lon="-43.9663859532364"
          heading="45"
          label="d F \ "
          size="SIZE4"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6304602051762"
-         lon="-43.9722194143975"
-         heading="222"
+         lon="-43.9722189405503"
+         heading="221"
          label="d C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6433643759624"
-         lon="-43.9579210383368"
+         lon="-43.9579210351348"
          heading="225"
          label="l[A]d &lt; H  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6473638862837"
-         lon="-43.9550804836504"
+         lon="-43.9550804152438"
          heading="135"
          label="l[N]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6478765441577"
-         lon="-43.9551180499244"
-         heading="169"
+         lon="-43.9551179745314"
+         heading="168"
          label="l[O]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6468215839698"
-         lon="-43.95628833423"
-         heading="48"
+         lon="-43.956288289111"
+         heading="47"
          label="d &lt; N | O ` "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6472029383754"
-         lon="-43.9545768519724"
-         heading="318"
+         lon="-43.9545767791996"
+         heading="317"
          label="l[O]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6461294214069"
-         lon="-43.9547224750026"
+         lon="-43.9547224220243"
          heading="45"
          label="l[A]d N &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6467633292718"
-         lon="-43.9541251029402"
+         lon="-43.9541250319141"
          heading="45"
          label="l[A]d O &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6432947285819"
-         lon="-43.9573508435315"
+         lon="-43.9573508400385"
          heading="45"
          label="l[A]d M &lt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6444283851038"
-         lon="-43.9569153770983"
+         lon="-43.9569153622529"
          heading="225"
          label="l[A]d &gt; M  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6466822116315"
-         lon="-43.955119101115"
+         lon="-43.9551190434791"
          heading="315"
          label="l[N]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6438370418802"
-         lon="-43.9566689654089"
+         lon="-43.956668955512"
          heading="135"
          label="l[M]d &lt; A &gt; "
          size="SIZE3"
@@ -15505,294 +15505,1498 @@
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6343930074753"
-         lon="-43.967776189673"
+         lon="-43.9677759830147"
          heading="45"
          label="d ` F "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.628839861417"
-         lon="-43.9728788244626"
-         heading="50"
+         lon="-43.97287825981"
+         heading="49"
          label="d &lt; C "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6246551015625"
-         lon="-43.9776191551259"
+         lon="-43.9776181539124"
          heading="45"
          label="dA&apos;|B&gt;"
          size="SIZE3"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6233499388527"
-         lon="-43.9764024597293"
+         lon="-43.9764014608523"
          heading="225"
          label="l[A]d&lt;B|`A"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6279197043293"
-         lon="-43.97158925085"
-         heading="43"
+         lon="-43.9715887094852"
+         heading="42"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6292575423512"
-         lon="-43.9709591730624"
+         lon="-43.9709587062042"
          heading="225"
          label="l[A]d &lt; C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6321325765737"
-         lon="-43.967678862824"
+         lon="-43.9676786043592"
          heading="45"
          label="l[A]d &lt; E "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6333675862771"
-         lon="-43.9671347164393"
+         lon="-43.9671345039609"
          heading="225"
          label="l[A]d E &gt; "
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6355947970401"
-         lon="-43.9644678630023"
+         lon="-43.9644677605456"
          heading="45"
          label="l[A]d &lt; F \ "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6372350187293"
-         lon="-43.9635568268143"
+         lon="-43.9635567636514"
          heading="225"
          label="l[A]d ` F &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6403919295573"
-         lon="-43.9600156119476"
+         lon="-43.9600156113473"
          heading="45"
          label="l[A]d&lt;J"
          size="SIZE4"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6413803798542"
-         lon="-43.9597250146782"
+         lon="-43.9597250156606"
          heading="225"
          label="l[A]d J &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6412616632792"
-         lon="-43.9592121782258"
+         lon="-43.9592121817916"
          heading="45"
          label="l[A]d &lt; L "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6421542533528"
-         lon="-43.9590357312615"
+         lon="-43.9590357332263"
          heading="225"
          label="l[A]d L &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6420757808947"
-         lon="-43.9584579510438"
+         lon="-43.9584579546823"
          heading="45"
          label="l[A]d H &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6326042974893"
-         lon="-43.9666847431683"
-         heading="136"
+         lon="-43.9666845277803"
+         heading="135"
          label="l[E]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.63606020357"
-         lon="-43.963305369928"
-         heading="119"
+         lon="-43.9633052986156"
+         heading="118"
          label="l[F]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6409895523598"
-         lon="-43.9592204648301"
+         lon="-43.959220468978"
          heading="135"
          label="l[J]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6416607779586"
-         lon="-43.9585726513575"
+         lon="-43.9585726564514"
          heading="135"
          label="l[L]d&lt;A&gt;"
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6234258608691"
-         lon="-43.9772782152357"
+         lon="-43.9772771674622"
          heading="135"
          label="l[B]m  16  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.622769676629"
-         lon="-43.977217118857"
+         lon="-43.9772160384905"
          heading="315"
          label="l[B]d /A&gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6429042628177"
-         lon="-43.9587053326513"
-         heading="318"
+         lon="-43.9587053325057"
+         heading="317"
          label="l[H]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6435107455046"
-         lon="-43.9587142706962"
+         lon="-43.9587142682219"
          heading="135"
          label="l[H]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6361925810387"
-         lon="-43.9657235336369"
-         heading="196"
+         lon="-43.9657234137155"
+         heading="195"
          label="l[F]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.635815681359"
-         lon="-43.9654707118121"
-         heading="18"
+         lon="-43.9654705907267"
+         heading="17"
          label="l[F]d / A &apos; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6293179543865"
-         lon="-43.9718148460468"
-         heading="137"
+         lon="-43.9718143454256"
+         heading="136"
          label="l[C]m 34 - 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6287190692012"
-         lon="-43.9718050361988"
-         heading="318"
+         lon="-43.9718045146232"
+         heading="317"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6285082070542"
-         lon="-43.9708543654371"
-         heading="136"
+         lon="-43.9708538776248"
+         heading="135"
          label="l[C]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6229250796093"
-         lon="-43.9775899589964"
-         heading="96"
+         lon="-43.9775888646586"
+         heading="95"
          label="l[A]m 16 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6368317196778"
-         lon="-43.9663860743225"
+         lon="-43.9663859532364"
          heading="45"
          label="d F \ "
          size="SIZE4"
          justification="LEFT"/>
       <TaxiwaySign
          lat="-19.6304602051762"
-         lon="-43.9722194143975"
-         heading="222"
+         lon="-43.9722189405503"
+         heading="221"
          label="d C &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6433643759624"
-         lon="-43.9579210383368"
+         lon="-43.9579210351348"
          heading="225"
          label="l[A]d &lt; H  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6473638862837"
-         lon="-43.9550804836504"
+         lon="-43.9550804152438"
          heading="135"
          label="l[N]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6478765441577"
-         lon="-43.9551180499244"
-         heading="169"
+         lon="-43.9551179745314"
+         heading="168"
          label="l[O]m 34 "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6468215839698"
-         lon="-43.95628833423"
-         heading="48"
+         lon="-43.956288289111"
+         heading="47"
          label="d &lt; N | O ` "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6472029383754"
-         lon="-43.9545768519724"
-         heading="318"
+         lon="-43.9545767791996"
+         heading="317"
          label="l[O]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6461294214069"
-         lon="-43.9547224750026"
+         lon="-43.9547224220243"
          heading="45"
          label="l[A]d N &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6467633292718"
-         lon="-43.9541251029402"
+         lon="-43.9541250319141"
          heading="45"
          label="l[A]d O &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6432947285819"
-         lon="-43.9573508435315"
+         lon="-43.9573508400385"
          heading="45"
          label="l[A]d M &lt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6444283851038"
-         lon="-43.9569153770983"
+         lon="-43.9569153622529"
          heading="225"
          label="l[A]d &gt; M  "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6466822116315"
-         lon="-43.955119101115"
+         lon="-43.9551190434791"
          heading="315"
          label="l[N]d &lt; A &gt; "
          size="SIZE3"
          justification="RIGHT"/>
       <TaxiwaySign
          lat="-19.6438370418802"
-         lon="-43.9566689654089"
+         lon="-43.956668955512"
+         heading="135"
+         label="l[M]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.642851613462"
+         lon="-43.9599376916885"
+         heading="45"
+         label="d &lt; H "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6343930074753"
+         lon="-43.9677759830147"
+         heading="45"
+         label="d ` F "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.628839861417"
+         lon="-43.97287825981"
+         heading="49"
+         label="d &lt; C "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6246551015625"
+         lon="-43.9776181539124"
+         heading="45"
+         label="dA&apos;|B&gt;"
+         size="SIZE3"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6233499388527"
+         lon="-43.9764014608523"
+         heading="225"
+         label="l[A]d&lt;B|`A"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6279197043293"
+         lon="-43.9715887094852"
+         heading="42"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6292575423512"
+         lon="-43.9709587062042"
+         heading="225"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6321325765737"
+         lon="-43.9676786043592"
+         heading="45"
+         label="l[A]d &lt; E "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6333675862771"
+         lon="-43.9671345039609"
+         heading="225"
+         label="l[A]d E &gt; "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6355947970401"
+         lon="-43.9644677605456"
+         heading="45"
+         label="l[A]d &lt; F \ "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6372350187293"
+         lon="-43.9635567636514"
+         heading="225"
+         label="l[A]d ` F &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6403919295573"
+         lon="-43.9600156113473"
+         heading="45"
+         label="l[A]d&lt;J"
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6413803798542"
+         lon="-43.9597250156606"
+         heading="225"
+         label="l[A]d J &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6412616632792"
+         lon="-43.9592121817916"
+         heading="45"
+         label="l[A]d &lt; L "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6421542533528"
+         lon="-43.9590357332263"
+         heading="225"
+         label="l[A]d L &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6420757808947"
+         lon="-43.9584579546823"
+         heading="45"
+         label="l[A]d H &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6326042974893"
+         lon="-43.9666845277803"
+         heading="135"
+         label="l[E]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.63606020357"
+         lon="-43.9633052986156"
+         heading="118"
+         label="l[F]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6409895523598"
+         lon="-43.959220468978"
+         heading="135"
+         label="l[J]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6416607779586"
+         lon="-43.9585726564514"
+         heading="135"
+         label="l[L]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6234258608691"
+         lon="-43.9772771674622"
+         heading="135"
+         label="l[B]m  16  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.622769676629"
+         lon="-43.9772160384905"
+         heading="315"
+         label="l[B]d /A&gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6429042628177"
+         lon="-43.9587053325057"
+         heading="317"
+         label="l[H]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6435107455046"
+         lon="-43.9587142682219"
+         heading="135"
+         label="l[H]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6361925810387"
+         lon="-43.9657234137155"
+         heading="195"
+         label="l[F]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.635815681359"
+         lon="-43.9654705907267"
+         heading="17"
+         label="l[F]d / A &apos; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6293179543865"
+         lon="-43.9718143454256"
+         heading="136"
+         label="l[C]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6287190692012"
+         lon="-43.9718045146232"
+         heading="317"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6285082070542"
+         lon="-43.9708538776248"
+         heading="135"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6229250796093"
+         lon="-43.9775888646586"
+         heading="95"
+         label="l[A]m 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6368317196778"
+         lon="-43.9663859532364"
+         heading="45"
+         label="d F \ "
+         size="SIZE4"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6304602051762"
+         lon="-43.9722189405503"
+         heading="221"
+         label="d C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6433643759624"
+         lon="-43.9579210351348"
+         heading="225"
+         label="l[A]d &lt; H  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6473638862837"
+         lon="-43.9550804152438"
+         heading="135"
+         label="l[N]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6478765441577"
+         lon="-43.9551179745314"
+         heading="168"
+         label="l[O]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6468215839698"
+         lon="-43.956288289111"
+         heading="47"
+         label="d &lt; N | O ` "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6472029383754"
+         lon="-43.9545767791996"
+         heading="317"
+         label="l[O]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6461294214069"
+         lon="-43.9547224220243"
+         heading="45"
+         label="l[A]d N &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6467633292718"
+         lon="-43.9541250319141"
+         heading="45"
+         label="l[A]d O &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6432947285819"
+         lon="-43.9573508400385"
+         heading="45"
+         label="l[A]d M &lt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6444283851038"
+         lon="-43.9569153622529"
+         heading="225"
+         label="l[A]d &gt; M  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6466822116315"
+         lon="-43.9551190434791"
+         heading="315"
+         label="l[N]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6438370418802"
+         lon="-43.956668955512"
+         heading="135"
+         label="l[M]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.642851613462"
+         lon="-43.9599376916885"
+         heading="45"
+         label="d &lt; H "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6343930074753"
+         lon="-43.9677759830147"
+         heading="45"
+         label="d ` F "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.628839861417"
+         lon="-43.97287825981"
+         heading="49"
+         label="d &lt; C "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6246551015625"
+         lon="-43.9776181539124"
+         heading="45"
+         label="dA&apos;|B&gt;"
+         size="SIZE3"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6233499388527"
+         lon="-43.9764014608523"
+         heading="225"
+         label="l[A]d&lt;B|`A"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6279197043293"
+         lon="-43.9715887094852"
+         heading="42"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6292575423512"
+         lon="-43.9709587062042"
+         heading="225"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6321325765737"
+         lon="-43.9676786043592"
+         heading="45"
+         label="l[A]d &lt; E "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6333675862771"
+         lon="-43.9671345039609"
+         heading="225"
+         label="l[A]d E &gt; "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6355947970401"
+         lon="-43.9644677605456"
+         heading="45"
+         label="l[A]d &lt; F \ "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6372350187293"
+         lon="-43.9635567636514"
+         heading="225"
+         label="l[A]d ` F &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6403919295573"
+         lon="-43.9600156113473"
+         heading="45"
+         label="l[A]d&lt;J"
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6413803798542"
+         lon="-43.9597250156606"
+         heading="225"
+         label="l[A]d J &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6412616632792"
+         lon="-43.9592121817916"
+         heading="45"
+         label="l[A]d &lt; L "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6421542533528"
+         lon="-43.9590357332263"
+         heading="225"
+         label="l[A]d L &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6420757808947"
+         lon="-43.9584579546823"
+         heading="45"
+         label="l[A]d H &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6326042974893"
+         lon="-43.9666845277803"
+         heading="135"
+         label="l[E]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.63606020357"
+         lon="-43.9633052986156"
+         heading="118"
+         label="l[F]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6409895523598"
+         lon="-43.959220468978"
+         heading="135"
+         label="l[J]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6416607779586"
+         lon="-43.9585726564514"
+         heading="135"
+         label="l[L]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6234258608691"
+         lon="-43.9772771674622"
+         heading="135"
+         label="l[B]m  16  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.622769676629"
+         lon="-43.9772160384905"
+         heading="315"
+         label="l[B]d /A&gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6429042628177"
+         lon="-43.9587053325057"
+         heading="317"
+         label="l[H]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6435107455046"
+         lon="-43.9587142682219"
+         heading="135"
+         label="l[H]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6361925810387"
+         lon="-43.9657234137155"
+         heading="195"
+         label="l[F]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.635815681359"
+         lon="-43.9654705907267"
+         heading="17"
+         label="l[F]d / A &apos; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6293179543865"
+         lon="-43.9718143454256"
+         heading="136"
+         label="l[C]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6287190692012"
+         lon="-43.9718045146232"
+         heading="317"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6285082070542"
+         lon="-43.9708538776248"
+         heading="135"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6229250796093"
+         lon="-43.9775888646586"
+         heading="95"
+         label="l[A]m 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6368317196778"
+         lon="-43.9663859532364"
+         heading="45"
+         label="d F \ "
+         size="SIZE4"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6304602051762"
+         lon="-43.9722189405503"
+         heading="221"
+         label="d C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6433643759624"
+         lon="-43.9579210351348"
+         heading="225"
+         label="l[A]d &lt; H  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6473638862837"
+         lon="-43.9550804152438"
+         heading="135"
+         label="l[N]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6478765441577"
+         lon="-43.9551179745314"
+         heading="168"
+         label="l[O]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6468215839698"
+         lon="-43.956288289111"
+         heading="47"
+         label="d &lt; N | O ` "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6472029383754"
+         lon="-43.9545767791996"
+         heading="317"
+         label="l[O]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6461294214069"
+         lon="-43.9547224220243"
+         heading="45"
+         label="l[A]d N &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6467633292718"
+         lon="-43.9541250319141"
+         heading="45"
+         label="l[A]d O &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6432947285819"
+         lon="-43.9573508400385"
+         heading="45"
+         label="l[A]d M &lt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6444283851038"
+         lon="-43.9569153622529"
+         heading="225"
+         label="l[A]d &gt; M  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6466822116315"
+         lon="-43.9551190434791"
+         heading="315"
+         label="l[N]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6438370418802"
+         lon="-43.956668955512"
+         heading="135"
+         label="l[M]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.642851613462"
+         lon="-43.9599376916885"
+         heading="45"
+         label="d &lt; H "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6343930074753"
+         lon="-43.9677759830147"
+         heading="45"
+         label="d ` F "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.628839861417"
+         lon="-43.97287825981"
+         heading="49"
+         label="d &lt; C "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6246551015625"
+         lon="-43.9776181539124"
+         heading="45"
+         label="dA&apos;|B&gt;"
+         size="SIZE3"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6233499388527"
+         lon="-43.9764014608523"
+         heading="225"
+         label="l[A]d&lt;B|`A"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6279197043293"
+         lon="-43.9715887094852"
+         heading="42"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6292575423512"
+         lon="-43.9709587062042"
+         heading="225"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6321325765737"
+         lon="-43.9676786043592"
+         heading="45"
+         label="l[A]d &lt; E "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6333675862771"
+         lon="-43.9671345039609"
+         heading="225"
+         label="l[A]d E &gt; "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6355947970401"
+         lon="-43.9644677605456"
+         heading="45"
+         label="l[A]d &lt; F \ "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6372350187293"
+         lon="-43.9635567636514"
+         heading="225"
+         label="l[A]d ` F &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6403919295573"
+         lon="-43.9600156113473"
+         heading="45"
+         label="l[A]d&lt;J"
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6413803798542"
+         lon="-43.9597250156606"
+         heading="225"
+         label="l[A]d J &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6412616632792"
+         lon="-43.9592121817916"
+         heading="45"
+         label="l[A]d &lt; L "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6421542533528"
+         lon="-43.9590357332263"
+         heading="225"
+         label="l[A]d L &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6420757808947"
+         lon="-43.9584579546823"
+         heading="45"
+         label="l[A]d H &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6326042974893"
+         lon="-43.9666845277803"
+         heading="135"
+         label="l[E]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.63606020357"
+         lon="-43.9633052986156"
+         heading="118"
+         label="l[F]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6409895523598"
+         lon="-43.959220468978"
+         heading="135"
+         label="l[J]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6416607779586"
+         lon="-43.9585726564514"
+         heading="135"
+         label="l[L]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6234258608691"
+         lon="-43.9772771674622"
+         heading="135"
+         label="l[B]m  16  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.622769676629"
+         lon="-43.9772160384905"
+         heading="315"
+         label="l[B]d /A&gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6429042628177"
+         lon="-43.9587053325057"
+         heading="317"
+         label="l[H]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6435107455046"
+         lon="-43.9587142682219"
+         heading="135"
+         label="l[H]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6361925810387"
+         lon="-43.9657234137155"
+         heading="195"
+         label="l[F]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.635815681359"
+         lon="-43.9654705907267"
+         heading="17"
+         label="l[F]d / A &apos; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6293179543865"
+         lon="-43.9718143454256"
+         heading="136"
+         label="l[C]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6287190692012"
+         lon="-43.9718045146232"
+         heading="317"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6285082070542"
+         lon="-43.9708538776248"
+         heading="135"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6229250796093"
+         lon="-43.9775888646586"
+         heading="95"
+         label="l[A]m 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6368317196778"
+         lon="-43.9663859532364"
+         heading="45"
+         label="d F \ "
+         size="SIZE4"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6304602051762"
+         lon="-43.9722189405503"
+         heading="221"
+         label="d C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6433643759624"
+         lon="-43.9579210351348"
+         heading="225"
+         label="l[A]d &lt; H  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6473638862837"
+         lon="-43.9550804152438"
+         heading="135"
+         label="l[N]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6478765441577"
+         lon="-43.9551179745314"
+         heading="168"
+         label="l[O]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6468215839698"
+         lon="-43.956288289111"
+         heading="47"
+         label="d &lt; N | O ` "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6472029383754"
+         lon="-43.9545767791996"
+         heading="317"
+         label="l[O]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6461294214069"
+         lon="-43.9547224220243"
+         heading="45"
+         label="l[A]d N &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6467633292718"
+         lon="-43.9541250319141"
+         heading="45"
+         label="l[A]d O &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6432947285819"
+         lon="-43.9573508400385"
+         heading="45"
+         label="l[A]d M &lt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6444283851038"
+         lon="-43.9569153622529"
+         heading="225"
+         label="l[A]d &gt; M  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6466822116315"
+         lon="-43.9551190434791"
+         heading="315"
+         label="l[N]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6438370418802"
+         lon="-43.956668955512"
+         heading="135"
+         label="l[M]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.642851613462"
+         lon="-43.9599376916885"
+         heading="45"
+         label="d &lt; H "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6343930074753"
+         lon="-43.9677759830147"
+         heading="45"
+         label="d ` F "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.628839861417"
+         lon="-43.97287825981"
+         heading="49"
+         label="d &lt; C "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6246551015625"
+         lon="-43.9776181539124"
+         heading="45"
+         label="dA&apos;|B&gt;"
+         size="SIZE3"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6233499388527"
+         lon="-43.9764014608523"
+         heading="225"
+         label="l[A]d&lt;B|`A"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6279197043293"
+         lon="-43.9715887094852"
+         heading="42"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6292575423512"
+         lon="-43.9709587062042"
+         heading="225"
+         label="l[A]d &lt; C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6321325765737"
+         lon="-43.9676786043592"
+         heading="45"
+         label="l[A]d &lt; E "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6333675862771"
+         lon="-43.9671345039609"
+         heading="225"
+         label="l[A]d E &gt; "
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6355947970401"
+         lon="-43.9644677605456"
+         heading="45"
+         label="l[A]d &lt; F \ "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6372350187293"
+         lon="-43.9635567636514"
+         heading="225"
+         label="l[A]d ` F &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6403919295573"
+         lon="-43.9600156113473"
+         heading="45"
+         label="l[A]d&lt;J"
+         size="SIZE4"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6413803798542"
+         lon="-43.9597250156606"
+         heading="225"
+         label="l[A]d J &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6412616632792"
+         lon="-43.9592121817916"
+         heading="45"
+         label="l[A]d &lt; L "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6421542533528"
+         lon="-43.9590357332263"
+         heading="225"
+         label="l[A]d L &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6420757808947"
+         lon="-43.9584579546823"
+         heading="45"
+         label="l[A]d H &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6326042974893"
+         lon="-43.9666845277803"
+         heading="135"
+         label="l[E]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.63606020357"
+         lon="-43.9633052986156"
+         heading="118"
+         label="l[F]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6409895523598"
+         lon="-43.959220468978"
+         heading="135"
+         label="l[J]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6416607779586"
+         lon="-43.9585726564514"
+         heading="135"
+         label="l[L]d&lt;A&gt;"
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6234258608691"
+         lon="-43.9772771674622"
+         heading="135"
+         label="l[B]m  16  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.622769676629"
+         lon="-43.9772160384905"
+         heading="315"
+         label="l[B]d /A&gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6429042628177"
+         lon="-43.9587053325057"
+         heading="317"
+         label="l[H]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6435107455046"
+         lon="-43.9587142682219"
+         heading="135"
+         label="l[H]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6361925810387"
+         lon="-43.9657234137155"
+         heading="195"
+         label="l[F]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.635815681359"
+         lon="-43.9654705907267"
+         heading="17"
+         label="l[F]d / A &apos; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6293179543865"
+         lon="-43.9718143454256"
+         heading="136"
+         label="l[C]m 34 - 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6287190692012"
+         lon="-43.9718045146232"
+         heading="317"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6285082070542"
+         lon="-43.9708538776248"
+         heading="135"
+         label="l[C]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6229250796093"
+         lon="-43.9775888646586"
+         heading="95"
+         label="l[A]m 16 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6368317196778"
+         lon="-43.9663859532364"
+         heading="45"
+         label="d F \ "
+         size="SIZE4"
+         justification="LEFT"/>
+      <TaxiwaySign
+         lat="-19.6304602051762"
+         lon="-43.9722189405503"
+         heading="221"
+         label="d C &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6433643759624"
+         lon="-43.9579210351348"
+         heading="225"
+         label="l[A]d &lt; H  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6473638862837"
+         lon="-43.9550804152438"
+         heading="135"
+         label="l[N]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6478765441577"
+         lon="-43.9551179745314"
+         heading="168"
+         label="l[O]m 34 "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6468215839698"
+         lon="-43.956288289111"
+         heading="47"
+         label="d &lt; N | O ` "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6472029383754"
+         lon="-43.9545767791996"
+         heading="317"
+         label="l[O]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6461294214069"
+         lon="-43.9547224220243"
+         heading="45"
+         label="l[A]d N &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6467633292718"
+         lon="-43.9541250319141"
+         heading="45"
+         label="l[A]d O &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6432947285819"
+         lon="-43.9573508400385"
+         heading="45"
+         label="l[A]d M &lt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6444283851038"
+         lon="-43.9569153622529"
+         heading="225"
+         label="l[A]d &gt; M  "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6466822116315"
+         lon="-43.9551190434791"
+         heading="315"
+         label="l[N]d &lt; A &gt; "
+         size="SIZE3"
+         justification="RIGHT"/>
+      <TaxiwaySign
+         lat="-19.6438370418802"
+         lon="-43.956668955512"
          heading="135"
          label="l[M]d &lt; A &gt; "
          size="SIZE3"
@@ -16495,17 +17699,9 @@
             </TransitionLegs>
          </Transition>
       </Approach>
-<!-- AIRAC 1604 - MURARO (ORACLE) on 05/04/2016 -->
+<!-- AIRAC 1604 - MURARO (ORACLE) on 06/04/2016 -->
       <Waypoint
-         lat="0.704000070691109"
-         lon="-46.3378335535526"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="FURNB">
-      </Waypoint>
-      <Waypoint
-         lat="0.667000003159046"
+         lat="-17.6669999957085"
          lon="-45.1700001955032"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -16513,7 +17709,7 @@
          waypointIdent="LISBO">
       </Waypoint>
       <Waypoint
-         lat="0.688333623111248"
+         lat="-18.688333556056"
          lon="-45.2998334169388"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -16521,15 +17717,7 @@
          waypointIdent="MEBLU">
       </Waypoint>
       <Waypoint
-         lat="0.582333393394947"
-         lon="-45.3316667675972"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="POSTA">
-      </Waypoint>
-      <Waypoint
-         lat="0.513333566486835"
+         lat="-19.513333439827"
          lon="-45.7683335244656"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -16537,103 +17725,23 @@
          waypointIdent="NINDI">
       </Waypoint>
       <Waypoint
-         lat="0.989500097930431"
-         lon="-44.1955000162125"
+         lat="-19.5823336020112"
+         lon="-45.3316667675972"
          waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="GEDOK">
+         waypointIdent="POSTA">
       </Waypoint>
       <Waypoint
-         lat="0.774727910757065"
-         lon="-44.4247417151928"
+         lat="-20.7040002197027"
+         lon="-46.3378335535526"
          waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="VOTSU">
+         waypointIdent="FURNB">
       </Waypoint>
       <Waypoint
-         lat="0.744333453476429"
-         lon="-44.9700003862381"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MAVBO">
-      </Waypoint>
-      <Waypoint
-         lat="0.706839188933373"
-         lon="-44.2023333907127"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="REPOM">
-      </Waypoint>
-      <Waypoint
-         lat="0.745647400617599"
-         lon="-44.2422942817211"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="PUMAT">
-      </Waypoint>
-      <Waypoint
-         lat="0.725811123847961"
-         lon="-44.2770029604435"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="AKRAR">
-      </Waypoint>
-      <Waypoint
-         lat="0.769666917622089"
-         lon="-44.0874999761581"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="DEJAN">
-      </Waypoint>
-      <Waypoint
-         lat="0.718424990773201"
-         lon="-44.2766806483269"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KEXEB">
-      </Waypoint>
-      <Waypoint
-         lat="0.824166722595692"
-         lon="-44.1678334772587"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MOPTA">
-      </Waypoint>
-      <Waypoint
-         lat="0.839694701135159"
-         lon="-44.4650861620903"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF091">
-      </Waypoint>
-      <Waypoint
-         lat="0.857333578169346"
-         lon="-44.6743333339691"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MOTMA">
-      </Waypoint>
-      <Waypoint
-         lat="0.742836110293865"
-         lon="-44.4339863955975"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MUGRA">
-      </Waypoint>
-      <Waypoint
-         lat="0.85300013422966"
+         lat="-16.8530001863837"
          lon="-44.738000035286"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -16641,271 +17749,7 @@
          waypointIdent="GEVMI">
       </Waypoint>
       <Waypoint
-         lat="0.893514230847359"
-         lon="-44.3048085272312"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF042">
-      </Waypoint>
-      <Waypoint
-         lat="0.974361374974251"
-         lon="-43.2545502483845"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH012">
-      </Waypoint>
-      <Waypoint
-         lat="0.956000313162804"
-         lon="-44.0558333694935"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPLEX">
-      </Waypoint>
-      <Waypoint
-         lat="0.989964120090008"
-         lon="-43.5604445636272"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPSAB">
-      </Waypoint>
-      <Waypoint
-         lat="0.826166979968548"
-         lon="-43.7298336625099"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF047">
-      </Waypoint>
-      <Waypoint
-         lat="0.808000043034554"
-         lon="-43.5128335654736"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF037">
-      </Waypoint>
-      <Waypoint
-         lat="0.712433606386185"
-         lon="-43.8955695927143"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPVAL">
-      </Waypoint>
-      <Waypoint
-         lat="0.964666865766048"
-         lon="-44.0001668035984"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="PENTE">
-      </Waypoint>
-      <Waypoint
-         lat="0.812219493091106"
-         lon="-43.7922611832619"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CNF01">
-      </Waypoint>
-      <Waypoint
-         lat="0.777836255729198"
-         lon="-43.8221722841263"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CNF02">
-      </Waypoint>
-      <Waypoint
-         lat="0.723186247050762"
-         lon="-43.5487027466297"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF032">
-      </Waypoint>
-      <Waypoint
-         lat="0.961500182747841"
-         lon="-43.6405000090599"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH006">
-      </Waypoint>
-      <Waypoint
-         lat="0.907167010009289"
-         lon="-43.3366665244102"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SALVI">
-      </Waypoint>
-      <Waypoint
-         lat="0.934166796505451"
-         lon="-43.2485000789166"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SIGEL">
-      </Waypoint>
-      <Waypoint
-         lat="0.8951336145401"
-         lon="-43.7095807492733"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="UGRUL">
-      </Waypoint>
-      <Waypoint
-         lat="0.752833373844624"
-         lon="-43.973833322525"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="DEVAD">
-      </Waypoint>
-      <Waypoint
-         lat="0.931933522224426"
-         lon="-43.7232725322247"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KUBEX">
-      </Waypoint>
-      <Waypoint
-         lat="0.985166989266872"
-         lon="-43.4658332169056"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH002">
-      </Waypoint>
-      <Waypoint
-         lat="0.919666774570942"
-         lon="-43.4831665456295"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="EPDIM">
-      </Waypoint>
-      <Waypoint
-         lat="0.851277820765972"
-         lon="-43.6259669065475"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KIMUS">
-      </Waypoint>
-      <Waypoint
-         lat="0.83576962351799"
-         lon="-44.0035611391068"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="BHZ">
-      </Waypoint>
-      <Waypoint
-         lat="0.920003056526184"
-         lon="-43.3018277585506"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ASBIT">
-      </Waypoint>
-      <Waypoint
-         lat="0.809975154697895"
-         lon="-43.1702166795731"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="UMKIT">
-      </Waypoint>
-      <Waypoint
-         lat="0.96332810819149"
-         lon="-43.6407221853733"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ITASU">
-      </Waypoint>
-      <Waypoint
-         lat="0.911166854202747"
-         lon="-43.5976669192314"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF046">
-      </Waypoint>
-      <Waypoint
-         lat="0.890500098466873"
-         lon="-43.8391667604446"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="IRAXO">
-      </Waypoint>
-      <Waypoint
-         lat="0.196000076830387"
-         lon="-44.729333370924"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="GILNI">
-      </Waypoint>
-      <Waypoint
-         lat="0.142269395291805"
-         lon="-44.156119376421"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="BIVBI">
-      </Waypoint>
-      <Waypoint
-         lat="0.463863909244537"
-         lon="-44.1254085302353"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="IC001">
-      </Waypoint>
-      <Waypoint
-         lat="0.455183275043964"
-         lon="-44.1333943605423"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="IC002">
-      </Waypoint>
-      <Waypoint
-         lat="0.277333371341228"
-         lon="-44.1496668756008"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="TORUX">
-      </Waypoint>
-      <Waypoint
-         lat="0.217999890446663"
-         lon="-44.2654998600483"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="GIKMU">
-      </Waypoint>
-      <Waypoint
-         lat="0.649700090289116"
-         lon="-44.3620222806931"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ISLEG">
-      </Waypoint>
-      <Waypoint
-         lat="0.085500106215477"
+         lat="-17.0855000987649"
          lon="-44.0678335726261"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -16913,535 +17757,7 @@
          waypointIdent="TEMIT">
       </Waypoint>
       <Waypoint
-         lat="0.186358205974102"
-         lon="-44.2724418640137"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SUBRI">
-      </Waypoint>
-      <Waypoint
-         lat="0.299166887998581"
-         lon="-44.4768333435059"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ISVAD">
-      </Waypoint>
-      <Waypoint
-         lat="0.246500037610531"
-         lon="-44.0643332898617"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SIGIR">
-      </Waypoint>
-      <Waypoint
-         lat="0.068499930202961"
-         lon="-44.3431667983532"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SIDOL">
-      </Waypoint>
-      <Waypoint
-         lat="0.395833365619183"
-         lon="-44.3201668560505"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SELMI">
-      </Waypoint>
-      <Waypoint
-         lat="0.690333545207977"
-         lon="-44.6748335659504"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SELDO">
-      </Waypoint>
-      <Waypoint
-         lat="0.635872296988964"
-         lon="-44.1288332641125"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="BURPO">
-      </Waypoint>
-      <Waypoint
-         lat="0.661458559334278"
-         lon="-44.1894140839577"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH019">
-      </Waypoint>
-      <Waypoint
-         lat="0.0546667724847794"
-         lon="-44.4338335096836"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="RORIP">
-      </Waypoint>
-      <Waypoint
-         lat="0.588500127196312"
-         lon="-44.9054999649525"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="EKINU">
-      </Waypoint>
-      <Waypoint
-         lat="0.0966084748506546"
-         lon="-44.6089974045753"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KOVED">
-      </Waypoint>
-      <Waypoint
-         lat="0.440394580364227"
-         lon="-44.0909890830517"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF018">
-      </Waypoint>
-      <Waypoint
-         lat="0.252611115574837"
-         lon="-44.5585834980011"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF026">
-      </Waypoint>
-      <Waypoint
-         lat="0.349963903427124"
-         lon="-44.2633138597012"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF028">
-      </Waypoint>
-      <Waypoint
-         lat="0.366469547152519"
-         lon="-44.2130751907825"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF029">
-      </Waypoint>
-      <Waypoint
-         lat="0.331833511590958"
-         lon="-44.5956668257713"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="PESCA">
-      </Waypoint>
-      <Waypoint
-         lat="0.321222357451916"
-         lon="-44.3506693840027"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH009">
-      </Waypoint>
-      <Waypoint
-         lat="0.466697327792645"
-         lon="-44.1469833254814"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CNF30">
-      </Waypoint>
-      <Waypoint
-         lat="0.644783601164818"
-         lon="-44.1997222602367"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF043">
-      </Waypoint>
-      <Waypoint
-         lat="0.447999984025955"
-         lon="-44.115000218153"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CNF06">
-      </Waypoint>
-      <Waypoint
-         lat="0.688833519816399"
-         lon="-44.6431669592857"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPKES">
-      </Waypoint>
-      <Waypoint
-         lat="0.41248619556427"
-         lon="-44.0728752315044"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF081">
-      </Waypoint>
-      <Waypoint
-         lat="0.196666605770588"
-         lon="-44.6760003268719"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="UTPIN">
-      </Waypoint>
-      <Waypoint
-         lat="0.0408332794904709"
-         lon="-44.3648332357407"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="NIMGU">
-      </Waypoint>
-      <Waypoint
-         lat="0.5091667547822"
-         lon="-44.0639998018742"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="NITLU">
-      </Waypoint>
-      <Waypoint
-         lat="0.595755837857723"
-         lon="-44.1209028661251"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH016">
-      </Waypoint>
-      <Waypoint
-         lat="0.00983331352472305"
-         lon="-43.7178334593773"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="NINSA">
-      </Waypoint>
-      <Waypoint
-         lat="0.0623331964015961"
-         lon="-43.602000027895"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="NISTI">
-      </Waypoint>
-      <Waypoint
-         lat="0.639333352446556"
-         lon="-43.9636668562889"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF048">
-      </Waypoint>
-      <Waypoint
-         lat="0.585138984024525"
-         lon="-44.0195108950138"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="33THR">
-      </Waypoint>
-      <Waypoint
-         lat="0.513666830956936"
-         lon="-43.5478332638741"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OBGAR">
-      </Waypoint>
-      <Waypoint
-         lat="0.0621665641665459"
-         lon="-43.7806668877602"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OGRET">
-      </Waypoint>
-      <Waypoint
-         lat="0.520333461463451"
-         lon="-43.9762361347675"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MOSGU">
-      </Waypoint>
-      <Waypoint
-         lat="0.0718332454562187"
-         lon="-43.5216669738293"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF044">
-      </Waypoint>
-      <Waypoint
-         lat="0.520677790045738"
-         lon="-43.5302612185478"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MEXOK">
-      </Waypoint>
-      <Waypoint
-         lat="0.577708594501019"
-         lon="-43.8796444237232"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF039">
-      </Waypoint>
-      <Waypoint
-         lat="0.292333289980888"
-         lon="-43.4171667695045"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF036">
-      </Waypoint>
-      <Waypoint
-         lat="0.631216652691364"
-         lon="-43.9053086936474"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="D141I">
-      </Waypoint>
-      <Waypoint
-         lat="0.259377993643284"
-         lon="-43.8219948112965"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF033">
-      </Waypoint>
-      <Waypoint
-         lat="0.460022315382957"
-         lon="-43.2418696582317"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="WH018">
-      </Waypoint>
-      <Waypoint
-         lat="0.627666749060154"
-         lon="-43.6904999613762"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MADAM">
-      </Waypoint>
-      <Waypoint
-         lat="0.658900067210197"
-         lon="-43.8969334959984"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="LSTNB">
-      </Waypoint>
-      <Waypoint
-         lat="0.307333543896675"
-         lon="-43.9470000565052"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="PUGVA">
-      </Waypoint>
-      <Waypoint
-         lat="0.244166851043701"
-         lon="-43.5300001502037"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="DADGU">
-      </Waypoint>
-      <Waypoint
-         lat="0.506333336234093"
-         lon="-43.8283333182335"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="DOVRU">
-      </Waypoint>
-      <Waypoint
-         lat="0.377333499491215"
-         lon="-43.3161668479443"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KOKSU">
-      </Waypoint>
-      <Waypoint
-         lat="0.460333451628685"
-         lon="-43.8865001499653"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SALKI">
-      </Waypoint>
-      <Waypoint
-         lat="0.450666770339012"
-         lon="-43.611333668232"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="GATOX">
-      </Waypoint>
-      <Waypoint
-         lat="0.476000234484673"
-         lon="-43.8440001010895"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SAMGO">
-      </Waypoint>
-      <Waypoint
-         lat="0.129941627383232"
-         lon="-44.0537251532078"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KAMOD">
-      </Waypoint>
-      <Waypoint
-         lat="0.551500059664249"
-         lon="-43.3775000274181"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KALAX">
-      </Waypoint>
-      <Waypoint
-         lat="0.131191536784172"
-         lon="-44.013694524765"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ITAVI">
-      </Waypoint>
-      <Waypoint
-         lat="0.361333452165127"
-         lon="-43.7230002880096"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="BIXEK">
-      </Waypoint>
-      <Waypoint
-         lat="0.0626473501324654"
-         lon="-43.9081031084061"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="GEPNA">
-      </Waypoint>
-      <Waypoint
-         lat="0.651333555579185"
-         lon="-43.5696668922901"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SIGOV">
-      </Waypoint>
-      <Waypoint
-         lat="0.536169558763504"
-         lon="-43.7416166067123"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SINEK">
-      </Waypoint>
-      <Waypoint
-         lat="0.119155459105968"
-         lon="-44.0289303660393"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="SIPIN">
-      </Waypoint>
-      <Waypoint
-         lat="0.51317498087883"
-         lon="-43.5870333015919"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ISNUV">
-      </Waypoint>
-      <Waypoint
-         lat="0.186597257852554"
-         lon="-43.8241419196129"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ISMEK">
-      </Waypoint>
-      <Waypoint
-         lat="0.561000108718872"
-         lon="-43.5905000567436"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="TEMUN">
-      </Waypoint>
-      <Waypoint
-         lat="0.67250020802021"
-         lon="-43.4608335793018"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="TENOK">
-      </Waypoint>
-      <Waypoint
-         lat="0.438333302736282"
-         lon="-43.6565002799034"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="TESAG">
-      </Waypoint>
-      <Waypoint
-         lat="0.640500113368034"
-         lon="-43.7748335301876"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ILKUN">
-      </Waypoint>
-      <Waypoint
-         lat="0.0683527439832687"
-         lon="-43.339991569519"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="UGETU">
-      </Waypoint>
-      <Waypoint
-         lat="0.559919513761997"
-         lon="-44.0369608998299"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="IC">
-      </Waypoint>
-      <Waypoint
-         lat="0.496750138700008"
-         lon="-43.210241496563"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="ANPEK">
-      </Waypoint>
-      <Waypoint
-         lat="0.154000036418438"
+         lat="-17.1540000289679"
          lon="-43.8548335433006"
          waypointType="NAMED"
          magvar="22.6000003814697"
@@ -17449,116 +17765,100 @@
          waypointIdent="NITMI">
       </Waypoint>
       <Waypoint
-         lat="0.189333446323872"
-         lon="-43.4399999678135"
+         lat="-18.2464999705553"
+         lon="-44.0643332898617"
          waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="ANLES">
+         waypointIdent="SIGIR">
       </Waypoint>
       <Waypoint
-         lat="0.469666868448257"
+         lat="-18.0546667054296"
+         lon="-44.4338335096836"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="RORIP">
+      </Waypoint>
+      <Waypoint
+         lat="-18.5885000601411"
+         lon="-44.9054999649525"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="EKINU">
+      </Waypoint>
+      <Waypoint
+         lat="-18.8241669908166"
+         lon="-44.1678334772587"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MOPTA">
+      </Waypoint>
+      <Waypoint
+         lat="-18.7231861799955"
+         lon="-43.5487027466297"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF032">
+      </Waypoint>
+      <Waypoint
+         lat="-18.5136667639017"
+         lon="-43.5478332638741"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OBGAR">
+      </Waypoint>
+      <Waypoint
+         lat="-18.9071669429541"
+         lon="-43.3366665244102"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SALVI">
+      </Waypoint>
+      <Waypoint
+         lat="-18.9560002461076"
+         lon="-44.0558333694935"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OPLEX">
+      </Waypoint>
+      <Waypoint
+         lat="-18.9196667075157"
+         lon="-43.4831665456295"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="EPDIM">
+      </Waypoint>
+      <Waypoint
+         lat="-18.9646667987108"
+         lon="-44.0001668035984"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="PENTE">
+      </Waypoint>
+      <Waypoint
+         lat="-18.3073334768415"
+         lon="-43.9470000565052"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="PUGVA">
+      </Waypoint>
+      <Waypoint
+         lat="-18.469666801393"
          lon="-43.6330001056194"
          waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
          waypointIdent="VULOM">
-      </Waypoint>
-      <Waypoint
-         lat="0.619133301079273"
-         lon="-43.7235000729561"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="VUPER">
-      </Waypoint>
-      <Waypoint
-         lat="0.315500199794769"
-         lon="-43.6473333835602"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="KOKTA">
-      </Waypoint>
-      <Waypoint
-         lat="0.957833603024483"
-         lon="-42.9786667227745"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="EVPAD">
-      </Waypoint>
-      <Waypoint
-         lat="0.860666893422604"
-         lon="-42.9035000503063"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPLUT">
-      </Waypoint>
-      <Waypoint
-         lat="0.758000314235687"
-         lon="-42.4481669068336"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="POSMU">
-      </Waypoint>
-      <Waypoint
-         lat="0.0799999013543129"
-         lon="-42.4993336200714"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="MANDU">
-      </Waypoint>
-      <Waypoint
-         lat="0.656333528459072"
-         lon="-43.1169998645782"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="NIPDA">
-      </Waypoint>
-      <Waypoint
-         lat="0.463000237941742"
-         lon="-42.4795000255108"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="YPTNB">
-      </Waypoint>
-      <Waypoint
-         lat="0.417000018060207"
-         lon="-43.0738332867622"
-         waypointType="NAMED"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="OPVUK">
-      </Waypoint>
-      <Waypoint
-         lat="-19.5636469870806"
-         lon="-44.1741719841957"
-         waypointType="IAF"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="TISLO">
-      </Waypoint>
-      <Waypoint
-         lat="-19.4974889606237"
-         lon="-44.0944638848305"
-         waypointType="IAF"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="UGTES">
-      </Waypoint>
-      <Waypoint
-         lat="-19.434499964118"
-         lon="-44.1525001823902"
-         waypointType="IAF"
-         magvar="22.6000003814697"
-         waypointRegion="SB"
-         waypointIdent="CF007">
       </Waypoint>
       <Waypoint
          lat="-19.4747528806329"
@@ -17569,6 +17869,54 @@
          waypointIdent="DIKOT">
       </Waypoint>
       <Waypoint
+         lat="-19.1422696039081"
+         lon="-44.156119376421"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="BIVBI">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6447834745049"
+         lon="-44.1997222602367"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF043">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6358725056052"
+         lon="-44.1288332641125"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="BURPO">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4124860689044"
+         lon="-44.0728752315044"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF081">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5636469870806"
+         lon="-44.1741719841957"
+         waypointType="IAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="TISLO">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4403944537044"
+         lon="-44.0909890830517"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF018">
+      </Waypoint>
+      <Waypoint
          lat="-19.5278331264853"
          lon="-44.1766668856144"
          waypointType="IAF"
@@ -17577,12 +17925,28 @@
          waypointIdent="CF009">
       </Waypoint>
       <Waypoint
+         lat="-19.4480001926422"
+         lon="-44.115000218153"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CNF06">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4666972011328"
+         lon="-44.1469833254814"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CNF30">
+      </Waypoint>
+      <Waypoint
          lat="-19.4974889606237"
          lon="-44.0944638848305"
          waypointType="IAF"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="CF011">
+         waypointIdent="UGTES">
       </Waypoint>
       <Waypoint
          lat="-19.4345700368285"
@@ -17593,12 +17957,220 @@
          waypointIdent="OSOMI">
       </Waypoint>
       <Waypoint
-         lat="-19.4243330508471"
-         lon="-44.0520000457764"
+         lat="-19.3318333849311"
+         lon="-44.5956668257713"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="PESCA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.434499964118"
+         lon="-44.1525001823902"
          waypointType="IAF"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="CF008">
+         waypointIdent="CF007">
+      </Waypoint>
+      <Waypoint
+         lat="-19.321222230792"
+         lon="-44.3506693840027"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH009">
+      </Waypoint>
+      <Waypoint
+         lat="-19.3664694204926"
+         lon="-44.2130751907825"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF029">
+      </Waypoint>
+      <Waypoint
+         lat="-19.3499641120434"
+         lon="-44.2633138597012"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF028">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5957557111979"
+         lon="-44.1209028661251"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH016">
+      </Waypoint>
+      <Waypoint
+         lat="-19.2773332446814"
+         lon="-44.1496668756008"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="TORUX">
+      </Waypoint>
+      <Waypoint
+         lat="-19.3958335742354"
+         lon="-44.3201668560505"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SELMI">
+      </Waypoint>
+      <Waypoint
+         lat="-18.9895003661513"
+         lon="-44.1955000162125"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="GEDOK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4974889606237"
+         lon="-44.0944638848305"
+         waypointType="IAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF011">
+      </Waypoint>
+      <Waypoint
+         lat="-19.2526113241911"
+         lon="-44.5585834980011"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF026">
+      </Waypoint>
+      <Waypoint
+         lat="-19.2180000990629"
+         lon="-44.2654998600483"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="GIKMU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.1959999501705"
+         lon="-44.729333370924"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="GILNI">
+      </Waypoint>
+      <Waypoint
+         lat="-19.0685001388192"
+         lon="-44.3431667983532"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SIDOL">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4638641178608"
+         lon="-44.1254085302353"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="IC001">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4551834836602"
+         lon="-44.1333943605423"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="IC002">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6497002989054"
+         lon="-44.3620222806931"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ISLEG">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6614584326744"
+         lon="-44.1894140839577"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH019">
+      </Waypoint>
+      <Waypoint
+         lat="-19.1863584145904"
+         lon="-44.2724418640137"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SUBRI">
+      </Waypoint>
+      <Waypoint
+         lat="-19.1865971311927"
+         lon="-43.8241419196129"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ISMEK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5131751894951"
+         lon="-43.5870333015919"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ISNUV">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5599197223783"
+         lon="-44.0369608998299"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="IC">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4600221887231"
+         lon="-43.2418696582317"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH018">
+      </Waypoint>
+      <Waypoint
+         lat="-19.1311917454004"
+         lon="-44.013694524765"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ITAVI">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5515002682805"
+         lon="-43.3775000274181"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KALAX">
+      </Waypoint>
+      <Waypoint
+         lat="-19.1299418359995"
+         lon="-44.0537251532078"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KAMOD">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4506666436791"
+         lon="-43.611333668232"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="GATOX">
       </Waypoint>
       <Waypoint
          lat="-19.4314499571919"
@@ -17609,12 +18181,100 @@
          waypointIdent="AKPUV">
       </Waypoint>
       <Waypoint
-         lat="-19.5582138374448"
-         lon="-44.0485140681267"
-         waypointType="FAF"
+         lat="-19.3773333728313"
+         lon="-43.3161668479443"
+         waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="CNF">
+         waypointIdent="KOKSU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.3155000731349"
+         lon="-43.6473333835602"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KOKTA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4760001078248"
+         lon="-43.8440001010895"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SAMGO">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5063335448503"
+         lon="-43.8283333182335"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="DOVRU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4243330508471"
+         lon="-44.0520000457764"
+         waypointType="IAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF008">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6589002758265"
+         lon="-43.8969334959984"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="LSTNB">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6276669576764"
+         lon="-43.6904999613762"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MADAM">
+      </Waypoint>
+      <Waypoint
+         lat="-19.2441667243838"
+         lon="-43.5300001502037"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="DADGU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6191335096955"
+         lon="-43.7235000729561"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="VUPER">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6312168613076"
+         lon="-43.9053086936474"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="D141I">
+      </Waypoint>
+      <Waypoint
+         lat="-19.520677998662"
+         lon="-43.5302612185478"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MEXOK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6393335610628"
+         lon="-43.9636668562889"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF048">
       </Waypoint>
       <Waypoint
          lat="-19.5593061670661"
@@ -17625,6 +18285,46 @@
          waypointIdent="CF012">
       </Waypoint>
       <Waypoint
+         lat="-19.4603333249688"
+         lon="-43.8865001499653"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SALKI">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5582138374448"
+         lon="-44.0485140681267"
+         waypointType="FAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CNF">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6513334289193"
+         lon="-43.5696668922901"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SIGOV">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5777084678411"
+         lon="-43.8796444237232"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF039">
+      </Waypoint>
+      <Waypoint
+         lat="-19.0098331868649"
+         lon="-43.7178334593773"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="NINSA">
+      </Waypoint>
+      <Waypoint
          lat="-19.5599200576544"
          lon="-44.0369608998299"
          waypointType="FAF"
@@ -17633,20 +18333,316 @@
          waypointIdent="OM16">
       </Waypoint>
       <Waypoint
-         lat="-19.703492000699"
-         lon="-43.7631641328335"
-         waypointType="IAF"
+         lat="-19.0623334050179"
+         lon="-43.602000027895"
+         waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="KUGUT">
+         waypointIdent="NISTI">
       </Waypoint>
       <Waypoint
-         lat="-19.704208150506"
-         lon="-43.8981530070305"
-         waypointType="FAF"
+         lat="-19.2593778669834"
+         lon="-43.8219948112965"
+         waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="IMBUL">
+         waypointIdent="CF033">
+      </Waypoint>
+      <Waypoint
+         lat="-19.3613333255053"
+         lon="-43.7230002880096"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="BIXEK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4967500120401"
+         lon="-43.210241496563"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ANPEK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.189333319664"
+         lon="-43.4399999678135"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ANLES">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4383335113525"
+         lon="-43.6565002799034"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="TESAG">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5361694321036"
+         lon="-43.7416166067123"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SINEK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6404999867082"
+         lon="-43.7748335301876"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ILKUN">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6725000813603"
+         lon="-43.4608335793018"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="TENOK">
+      </Waypoint>
+      <Waypoint
+         lat="-19.560999982059"
+         lon="-43.5905000567436"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="TEMUN">
+      </Waypoint>
+      <Waypoint
+         lat="-19.5851388573647"
+         lon="-44.0195108950138"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="33THR">
+      </Waypoint>
+      <Waypoint
+         lat="-18.8606668263674"
+         lon="-42.9035000503063"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OPLUT">
+      </Waypoint>
+      <Waypoint
+         lat="-18.416999951005"
+         lon="-43.0738332867622"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OPVUK">
+      </Waypoint>
+      <Waypoint
+         lat="-18.7580002471805"
+         lon="-42.4481669068336"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="POSMU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6563334017992"
+         lon="-43.1169998645782"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="NIPDA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.4630001112819"
+         lon="-42.4795000255108"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="YPTNB">
+      </Waypoint>
+      <Waypoint
+         lat="-19.0800001099706"
+         lon="-42.4993336200714"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MANDU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7068390622735"
+         lon="-44.2023333907127"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="REPOM">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7428363189101"
+         lon="-44.4339863955975"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MUGRA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8573334515095"
+         lon="-44.6743333339691"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MOTMA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7747277840972"
+         lon="-44.4247417151928"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="VOTSU">
+      </Waypoint>
+      <Waypoint
+         lat="-20.0966082885861"
+         lon="-44.6089974045753"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KOVED">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7456472739577"
+         lon="-44.2422942817211"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="PUMAT">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7184251993895"
+         lon="-44.2766806483269"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KEXEB">
+      </Waypoint>
+      <Waypoint
+         lat="-20.2991667017341"
+         lon="-44.4768333435059"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ISVAD">
+      </Waypoint>
+      <Waypoint
+         lat="-20.0408334285021"
+         lon="-44.3648332357407"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="NIMGU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8396945744753"
+         lon="-44.4650861620903"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF091">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8935141041875"
+         lon="-44.3048085272312"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF042">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7258113324642"
+         lon="-44.2770029604435"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="AKRAR">
+      </Waypoint>
+      <Waypoint
+         lat="-19.6903334185481"
+         lon="-44.6748335659504"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SELDO">
+      </Waypoint>
+      <Waypoint
+         lat="-20.1191556081176"
+         lon="-44.0289303660393"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SIPIN">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9341670051217"
+         lon="-43.2485000789166"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="SIGEL">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7124334797263"
+         lon="-43.8955695927143"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OPVAL">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9899639934301"
+         lon="-43.5604445636272"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OPSAB">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9200029298663"
+         lon="-43.3018277585506"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ASBIT">
+      </Waypoint>
+      <Waypoint
+         lat="-20.0621667131782"
+         lon="-43.7806668877602"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="OGRET">
+      </Waypoint>
+      <Waypoint
+         lat="-20.0683528929949"
+         lon="-43.339991569519"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="UGETU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8951334878802"
+         lon="-43.7095807492733"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="UGRUL">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8357694968581"
+         lon="-44.0035611391068"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="BHZ">
       </Waypoint>
       <Waypoint
          lat="-19.7997001558542"
@@ -17657,12 +18653,100 @@
          waypointIdent="SURLO">
       </Waypoint>
       <Waypoint
-         lat="-19.7639560326934"
-         lon="-43.836502879858"
+         lat="-20.2923334389925"
+         lon="-43.4171667695045"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF036">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8080002516508"
+         lon="-43.5128335654736"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF037">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7068058699369"
+         lon="-43.9011391997337"
+         waypointType="FAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KUMEV">
+      </Waypoint>
+      <Waypoint
+         lat="-19.985166862607"
+         lon="-43.4658332169056"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH002">
+      </Waypoint>
+      <Waypoint
+         lat="-19.961500056088"
+         lon="-43.6405000090599"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH006">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9319333955646"
+         lon="-43.7232725322247"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KUBEX">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9743612483144"
+         lon="-43.2545502483845"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="WH012">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8512780293822"
+         lon="-43.6259669065475"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="KIMUS">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9633279815316"
+         lon="-43.6407221853733"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ITASU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8905003070831"
+         lon="-43.8391667604446"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="IRAXO">
+      </Waypoint>
+      <Waypoint
+         lat="-20.062647163868"
+         lon="-43.9081031084061"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="GEPNA">
+      </Waypoint>
+      <Waypoint
+         lat="-19.703492000699"
+         lon="-43.7631641328335"
          waypointType="IAF"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="ILVAK">
+         waypointIdent="KUGUT">
       </Waypoint>
       <Waypoint
          lat="-19.7696949541569"
@@ -17673,6 +18757,70 @@
          waypointIdent="CF004">
       </Waypoint>
       <Waypoint
+         lat="-19.7528335824609"
+         lon="-43.973833322525"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="DEVAD">
+      </Waypoint>
+      <Waypoint
+         lat="-19.704208150506"
+         lon="-43.8981530070305"
+         waypointType="FAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="IMBUL">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7778361290693"
+         lon="-43.8221722841263"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CNF02">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8122197017074"
+         lon="-43.7922611832619"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CNF01">
+      </Waypoint>
+      <Waypoint
+         lat="-19.8261668533087"
+         lon="-43.7298336625099"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF047">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9111667275429"
+         lon="-43.5976669192314"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF046">
+      </Waypoint>
+      <Waypoint
+         lat="-20.0718333944678"
+         lon="-43.5216669738293"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="CF044">
+      </Waypoint>
+      <Waypoint
+         lat="-19.7639560326934"
+         lon="-43.836502879858"
+         waypointType="IAF"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="ILVAK">
+      </Waypoint>
+      <Waypoint
          lat="-19.8073330521584"
          lon="-43.8079999387264"
          waypointType="IAF"
@@ -17681,12 +18829,68 @@
          waypointIdent="VADON">
       </Waypoint>
       <Waypoint
-         lat="-19.7068058699369"
-         lon="-43.9011391997337"
-         waypointType="FAF"
+         lat="-20.6888333335519"
+         lon="-44.6431669592857"
+         waypointType="NAMED"
          magvar="22.6000003814697"
          waypointRegion="SB"
-         waypointIdent="KUMEV">
+         waypointIdent="OPKES">
+      </Waypoint>
+      <Waypoint
+         lat="-20.744333602488"
+         lon="-44.9700003862381"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MAVBO">
+      </Waypoint>
+      <Waypoint
+         lat="-20.5091669037938"
+         lon="-44.0639998018742"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="NITLU">
+      </Waypoint>
+      <Waypoint
+         lat="-20.7696667313576"
+         lon="-44.0874999761581"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="DEJAN">
+      </Waypoint>
+      <Waypoint
+         lat="-20.8099753037095"
+         lon="-43.1702166795731"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="UMKIT">
+      </Waypoint>
+      <Waypoint
+         lat="-20.5203332751989"
+         lon="-43.9762361347675"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="MOSGU">
+      </Waypoint>
+      <Waypoint
+         lat="-19.9578334763646"
+         lon="-42.9786667227745"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="EVPAD">
+      </Waypoint>
+      <Waypoint
+         lat="-21.1966666951776"
+         lon="-44.6760003268719"
+         waypointType="NAMED"
+         magvar="22.6000003814697"
+         waypointRegion="SB"
+         waypointIdent="UTPIN">
       </Waypoint>
       <Ndb
          lat="-19.5599388331175"

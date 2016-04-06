@@ -10,7 +10,7 @@
       name="Tocantins"
       lat="-10.2900001779199"
       lon="-48.3577778935432"
-      alt="235.914M"
+      alt="235.915M"
       magvar="20"
       trafficScalar="0.7"
       airportTestRadius="5000.0M"
@@ -116,7 +116,7 @@
          type="RUNWAY"
          lat="-10.2854843437672"
          lon="-48.3661812543869"
-         alt="235.914M"
+         alt="220.98M"
          heading="123.720001220703"
          number="14"
          designator="NONE"/>
@@ -124,7 +124,7 @@
          type="RUNWAY"
          lat="-10.2975811064243"
          lon="-48.3477889001369"
-         alt="235.914M"
+         alt="235.915M"
          heading="303.720001220703"
          number="32"
          designator="NONE"/>
@@ -6546,7 +6546,7 @@
             </TransitionLegs>
          </Transition>
       </Approach>
-<!-- AIRAC 1604 - MURARO on 05/04/2016 -->
+<!-- AIRAC 1604 - MURARO (ORACLE) on 05/04/2016 -->
       <Waypoint
          lat="-8.99016682058573"
          lon="-47.6369999349117"
